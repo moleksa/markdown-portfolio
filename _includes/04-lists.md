@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+Favorite things
+* Video Games
+* Going to the movies
+* Meeting new people
+* Going to new places
