@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Programming languages and tools I've studied include __*Javascript, HTML, C, C++, C#, Javascript, ect.*__
